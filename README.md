@@ -31,6 +31,10 @@ Change Config Variables named 'TRAIN_METADATA_PATH' and 'VAL_METADATA_PATH' to t
 $ cd ../lib 
 open file named 'config.py' and set 'TRAIN_METADATA_PATH' and 'VAL_METADATA_PATH'.  
 ```
+
+**Download Small Kinetics Data**
+If you want, download videos which classified into 3 types ('petting cat','robot dancing','playing chess') 
+[download 3 class kinetics videos](https://drive.google.com/file/d/1J-yJR-_UO7E5R99kiE1EMVmObUUcspQg/view?usp=sharing)
 --------------
 **WARNING:** Before you start any download from YouTube, please be sure, that you have checked [YouTube Terms Of Service](https://www.youtube.com/static?template=terms) and you are compliant. Especially check section 5.H.
 
