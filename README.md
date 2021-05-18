@@ -14,7 +14,7 @@ and pack all sound tracks into a single **tfrecords** file for faster reading.
 Required Python packages are listed in **requirements.txt**.
 
 ## Usage
-
+--------------
 **Download specific number of videos of specific classes** 
 This is what I added to the original forked code [Kinetics Downloader](https://github.com/Showmax/kinetics-downloader)  
 ### STEP1 : 
@@ -31,8 +31,7 @@ Change Config Variables named 'TRAIN_METADATA_PATH' and 'VAL_METADATA_PATH' to t
 $ cd ../lib 
 open file named 'config.py' and set 'TRAIN_METADATA_PATH' and 'VAL_METADATA_PATH'.  
 ```
-
-
+--------------
 **WARNING:** Before you start any download from YouTube, please be sure, that you have checked [YouTube Terms Of Service](https://www.youtube.com/static?template=terms) and you are compliant. Especially check section 5.H.
 
 **Download all videos**:
