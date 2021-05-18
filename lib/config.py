@@ -15,6 +15,6 @@ TEST_SOUND_ROOT = os.path.join(DATASET_ROOT, "test_sound")
 
 CATEGORIES_PATH = "resources/categories.json"
 CLASSES_PATH = "resources/classes.json"
-TRAIN_METADATA_PATH = "resources/kinetics_train.json"
-VAL_METADATA_PATH = "resources/kinetics_val.json"
+TRAIN_METADATA_PATH = "resources/small_kinetics_train.json"
+VAL_METADATA_PATH = "resources/small_kinetics_val.json"
 TEST_METADATA_PATH = "resources/kinetics_test.json"
