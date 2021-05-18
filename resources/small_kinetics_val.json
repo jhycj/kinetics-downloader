@@ -1,0 +1,1802 @@
+{
+    "-AiRXJWGXZQ": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                55.0,
+                65.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=-AiRXJWGXZQ"
+    },
+    "0rnJX3pe3nY": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                11.0,
+                21.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=0rnJX3pe3nY"
+    },
+    "24cgfaG8WI0": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                14.0,
+                24.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=24cgfaG8WI0"
+    },
+    "2eigAnTVfTU": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                42.0,
+                52.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=2eigAnTVfTU"
+    },
+    "3AeMQ2pjTuk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                19.0,
+                29.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=3AeMQ2pjTuk"
+    },
+    "43u8MlIRmhc": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                11.0,
+                21.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=43u8MlIRmhc"
+    },
+    "4L5OLoGYp98": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                41.0,
+                51.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=4L5OLoGYp98"
+    },
+    "4ik1sNDoQcM": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                29.0,
+                39.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=4ik1sNDoQcM"
+    },
+    "58euAyYrqug": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                4.0,
+                14.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=58euAyYrqug"
+    },
+    "5G94o6UdX2w": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                1.0,
+                11.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=5G94o6UdX2w"
+    },
+    "5hQW4BHjWvM": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                61.0,
+                71.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=5hQW4BHjWvM"
+    },
+    "5lqTgXmUgb4": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                12.0,
+                22.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=5lqTgXmUgb4"
+    },
+    "5tudeVVPcXk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                139.0,
+                149.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=5tudeVVPcXk"
+    },
+    "676TR3bwLf0": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                570.0,
+                580.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=676TR3bwLf0"
+    },
+    "6lpFm4FYK9w": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                8.0,
+                18.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=6lpFm4FYK9w"
+    },
+    "7JTqg9iPmIk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                2.0,
+                12.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=7JTqg9iPmIk"
+    },
+    "7JeXJ60Gq0Q": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                78.0,
+                88.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=7JeXJ60Gq0Q"
+    },
+    "7fRHVcwz3qo": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                57.0,
+                67.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=7fRHVcwz3qo"
+    },
+    "7uDQQRgbNV0": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                200.0,
+                210.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=7uDQQRgbNV0"
+    },
+    "8Tr9NpoF32A": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                8.0,
+                18.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=8Tr9NpoF32A"
+    },
+    "8_5X8tTQvpw": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                31.0,
+                41.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=8_5X8tTQvpw"
+    },
+    "9lo2K6uLB3o": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                138.0,
+                148.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=9lo2K6uLB3o"
+    },
+    "A7btRBUYInQ": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                52.0,
+                62.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=A7btRBUYInQ"
+    },
+    "AEjKG75SDRM": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                159.0,
+                169.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=AEjKG75SDRM"
+    },
+    "Akmi0vc_LBo": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                12.0,
+                22.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Akmi0vc_LBo"
+    },
+    "AoH_c-tux7Q": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                5.0,
+                15.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=AoH_c-tux7Q"
+    },
+    "AroYo1O9Lq8": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                7.0,
+                17.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=AroYo1O9Lq8"
+    },
+    "AyZ2hw6W6_Q": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                0.0,
+                10.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=AyZ2hw6W6_Q"
+    },
+    "B-spAZFhXxk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                30.0,
+                40.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=B-spAZFhXxk"
+    },
+    "B9BGRDotBG8": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                4.0,
+                14.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=B9BGRDotBG8"
+    },
+    "BERPEnDo5Gs": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                83.0,
+                93.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=BERPEnDo5Gs"
+    },
+    "BHZLeikiPao": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                4.0,
+                14.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=BHZLeikiPao"
+    },
+    "BN5NLWihfm8": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                20.0,
+                30.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=BN5NLWihfm8"
+    },
+    "BYntfjRyIqw": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                34.0,
+                44.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=BYntfjRyIqw"
+    },
+    "BgAm_L544l4": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                83.0,
+                93.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=BgAm_L544l4"
+    },
+    "BvyM5SW_Upo": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                1078.0,
+                1088.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=BvyM5SW_Upo"
+    },
+    "CK4pgYmAHvE": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                165.0,
+                175.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=CK4pgYmAHvE"
+    },
+    "CfeTpqt937k": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                3.0,
+                13.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=CfeTpqt937k"
+    },
+    "Cx6XQIwOqyM": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                2.0,
+                12.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Cx6XQIwOqyM"
+    },
+    "DDXoItt-3bM": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                13.0,
+                23.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=DDXoItt-3bM"
+    },
+    "DuFRW5OIhv0": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                67.0,
+                77.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=DuFRW5OIhv0"
+    },
+    "E75ZH2AjhFk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                239.0,
+                249.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=E75ZH2AjhFk"
+    },
+    "EUIGpdmtzuA": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                1.0,
+                11.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=EUIGpdmtzuA"
+    },
+    "EaY5hWv6Vds": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                9.0,
+                19.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=EaY5hWv6Vds"
+    },
+    "F7Tmh5j81zI": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                1.0,
+                11.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=F7Tmh5j81zI"
+    },
+    "FbHZhi1Z94k": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                91.0,
+                101.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=FbHZhi1Z94k"
+    },
+    "FkflS-roksk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                554.0,
+                564.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=FkflS-roksk"
+    },
+    "GFVHrOSmezw": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                10.0,
+                20.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=GFVHrOSmezw"
+    },
+    "HmNj7yrUON8": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                51.0,
+                61.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=HmNj7yrUON8"
+    },
+    "HyLSN1N5Bdk": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                183.0,
+                193.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=HyLSN1N5Bdk"
+    },
+    "I85S2Nrnwiw": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                91.0,
+                101.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=I85S2Nrnwiw"
+    },
+    "Is7C6bTjV3U": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                27.0,
+                37.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Is7C6bTjV3U"
+    },
+    "JDye9vNFlXk": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                41.0,
+                51.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=JDye9vNFlXk"
+    },
+    "KXeJke5X5iY": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                73.0,
+                83.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=KXeJke5X5iY"
+    },
+    "N7HhD2qkuds": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                17.0,
+                27.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=N7HhD2qkuds"
+    },
+    "NChLYKUpqbk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                65.0,
+                75.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=NChLYKUpqbk"
+    },
+    "NGadIAmamY8": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                5.0,
+                15.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=NGadIAmamY8"
+    },
+    "Na_32fW3i50": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                105.0,
+                115.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Na_32fW3i50"
+    },
+    "O2QjdVG53O4": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                68.0,
+                78.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=O2QjdVG53O4"
+    },
+    "O9FAr9LIX2A": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                822.0,
+                832.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=O9FAr9LIX2A"
+    },
+    "OO5HbO9f1T4": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                42.0,
+                52.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=OO5HbO9f1T4"
+    },
+    "Oe7vfErM63c": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                3.0,
+                13.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Oe7vfErM63c"
+    },
+    "OhVU5mTdEAU": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                237.0,
+                247.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=OhVU5mTdEAU"
+    },
+    "P5h_9JcG5iA": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                53.0,
+                63.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=P5h_9JcG5iA"
+    },
+    "PbRbcN8AqG8": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                14.0,
+                24.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=PbRbcN8AqG8"
+    },
+    "PgPfk4vYpMU": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                375.0,
+                385.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=PgPfk4vYpMU"
+    },
+    "QAaZ7ECPO_w": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                6.0,
+                16.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=QAaZ7ECPO_w"
+    },
+    "QEWH30i14hA": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                1.0,
+                11.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=QEWH30i14hA"
+    },
+    "RlsD3VaOj8w": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                29.0,
+                39.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=RlsD3VaOj8w"
+    },
+    "SCCwinI-9gA": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                2.0,
+                12.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=SCCwinI-9gA"
+    },
+    "SkLHP01gnYA": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                15.0,
+                25.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=SkLHP01gnYA"
+    },
+    "SkQ7p7FJxpk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                42.0,
+                52.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=SkQ7p7FJxpk"
+    },
+    "TYTWS2PZLQg": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                32.0,
+                42.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=TYTWS2PZLQg"
+    },
+    "TdxmFKr3gAk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                809.0,
+                819.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=TdxmFKr3gAk"
+    },
+    "UiLzPWBsvxM": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                28.0,
+                38.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=UiLzPWBsvxM"
+    },
+    "UyeCxwbAXD4": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                35.0,
+                45.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=UyeCxwbAXD4"
+    },
+    "V453VcemDtQ": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                15.0,
+                25.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=V453VcemDtQ"
+    },
+    "VJSoDz7fJtM": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                24.0,
+                34.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=VJSoDz7fJtM"
+    },
+    "VKvkX17F2WM": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                9.0,
+                19.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=VKvkX17F2WM"
+    },
+    "Vj409oPgc8Y": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                2.0,
+                12.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Vj409oPgc8Y"
+    },
+    "Vl_VP2f2B4Q": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                89.0,
+                99.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Vl_VP2f2B4Q"
+    },
+    "W-wCrgmh3Ww": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                57.0,
+                67.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=W-wCrgmh3Ww"
+    },
+    "W8eeHbW4V78": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                27.0,
+                37.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=W8eeHbW4V78"
+    },
+    "WFBA0RxdDqw": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                27.0,
+                37.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=WFBA0RxdDqw"
+    },
+    "WIiOinIgTMc": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                247.0,
+                257.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=WIiOinIgTMc"
+    },
+    "WY9TXZ2ODgw": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                150.0,
+                160.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=WY9TXZ2ODgw"
+    },
+    "Wn6pE4-xqqc": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                7.0,
+                17.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Wn6pE4-xqqc"
+    },
+    "X_hXueBLRk0": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                11.0,
+                21.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=X_hXueBLRk0"
+    },
+    "Xkh86mum2ws": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                76.0,
+                86.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Xkh86mum2ws"
+    },
+    "YD6QVsxpIUk": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                42.0,
+                52.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=YD6QVsxpIUk"
+    },
+    "YOxmFaxoIig": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                53.0,
+                63.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=YOxmFaxoIig"
+    },
+    "YY_Xrn6H8A0": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                21.0,
+                31.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=YY_Xrn6H8A0"
+    },
+    "YZyUsvx_5ck": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                85.0,
+                95.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=YZyUsvx_5ck"
+    },
+    "Yqd0U012_Hw": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                368.0,
+                378.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Yqd0U012_Hw"
+    },
+    "Yy34-uGxGdg": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                203.0,
+                213.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Yy34-uGxGdg"
+    },
+    "Z-EuirjkrfU": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                19.0,
+                29.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=Z-EuirjkrfU"
+    },
+    "ZKFhlncm_ec": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                275.0,
+                285.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=ZKFhlncm_ec"
+    },
+    "a1SrTZ5CAlI": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                24.0,
+                34.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=a1SrTZ5CAlI"
+    },
+    "auImcYJIS7k": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                1.0,
+                11.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=auImcYJIS7k"
+    },
+    "b34egjaaFtg": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                4.0,
+                14.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=b34egjaaFtg"
+    },
+    "beczHkrGKTE": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                67.0,
+                77.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=beczHkrGKTE"
+    },
+    "cOF-mo-YHbk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                16.0,
+                26.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=cOF-mo-YHbk"
+    },
+    "dWlTf1IGmJk": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                12.0,
+                22.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=dWlTf1IGmJk"
+    },
+    "fChR1to4cJ4": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                3.0,
+                13.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=fChR1to4cJ4"
+    },
+    "fHV4nI-o6OQ": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                1.0,
+                11.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=fHV4nI-o6OQ"
+    },
+    "fPhwWijgOtI": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                3.0,
+                13.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=fPhwWijgOtI"
+    },
+    "fn8bBb0gTkw": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                63.0,
+                73.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=fn8bBb0gTkw"
+    },
+    "frjB1wGKFCI": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                186.0,
+                196.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=frjB1wGKFCI"
+    },
+    "goohqGiYNyo": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                94.0,
+                104.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=goohqGiYNyo"
+    },
+    "i60EjAFM5vk": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                53.0,
+                63.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=i60EjAFM5vk"
+    },
+    "ij3u6P0iv1M": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                8.0,
+                18.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=ij3u6P0iv1M"
+    },
+    "iwIttka43nE": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                37.0,
+                47.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=iwIttka43nE"
+    },
+    "jIWMqE34P7c": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                288.0,
+                298.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=jIWMqE34P7c"
+    },
+    "kT_LM_99xys": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                5.0,
+                15.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=kT_LM_99xys"
+    },
+    "k_Af0De1aKc": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                57.0,
+                67.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=k_Af0De1aKc"
+    },
+    "kiXPIuv_Lig": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                22.0,
+                32.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=kiXPIuv_Lig"
+    },
+    "kpjNi_S-A3U": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                91.0,
+                101.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=kpjNi_S-A3U"
+    },
+    "lKrziViOCmE": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                37.0,
+                47.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=lKrziViOCmE"
+    },
+    "n4icILNnvYU": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                93.0,
+                103.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=n4icILNnvYU"
+    },
+    "n6DA_5ZIXYY": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                8.0,
+                18.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=n6DA_5ZIXYY"
+    },
+    "nVZrfjhBR1Y": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                2.0,
+                12.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=nVZrfjhBR1Y"
+    },
+    "oGEVs4CkVaw": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                3.0,
+                13.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=oGEVs4CkVaw"
+    },
+    "ofuABYNgdI4": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                219.0,
+                229.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=ofuABYNgdI4"
+    },
+    "pUWJsmWOLG0": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                172.0,
+                182.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=pUWJsmWOLG0"
+    },
+    "pWYKtIBG3T4": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                0.0,
+                10.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=pWYKtIBG3T4"
+    },
+    "paqZftDenXs": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                54.0,
+                64.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=paqZftDenXs"
+    },
+    "psoO1gCswUU": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                16.0,
+                26.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=psoO1gCswUU"
+    },
+    "q1GijBRBqjE": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                203.0,
+                213.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=q1GijBRBqjE"
+    },
+    "q67jmwuKzEY": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                91.0,
+                101.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=q67jmwuKzEY"
+    },
+    "qFjPNVIYFgE": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                20.0,
+                30.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=qFjPNVIYFgE"
+    },
+    "qOimXK7K-bw": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                149.0,
+                159.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=qOimXK7K-bw"
+    },
+    "qvuM5tRdJ4o": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                4.0,
+                14.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=qvuM5tRdJ4o"
+    },
+    "rkwr4K6jAUc": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                0.0,
+                10.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=rkwr4K6jAUc"
+    },
+    "s0-yCCGGlN4": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                3.0,
+                13.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=s0-yCCGGlN4"
+    },
+    "s1j82uqbpZo": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                2.0,
+                12.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=s1j82uqbpZo"
+    },
+    "sE_ENRYHiZE": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                210.0,
+                220.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=sE_ENRYHiZE"
+    },
+    "swSqjtxpoA4": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                26.0,
+                36.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=swSqjtxpoA4"
+    },
+    "tOpxzf25Vmw": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                124.0,
+                134.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=tOpxzf25Vmw"
+    },
+    "uSscrX2Moas": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                83.0,
+                93.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=uSscrX2Moas"
+    },
+    "uhVjg7-2wLs": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                38.0,
+                48.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=uhVjg7-2wLs"
+    },
+    "v4FPCXxS4OU": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                6.0,
+                16.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=v4FPCXxS4OU"
+    },
+    "wR8QFp-6v_k": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                17.0,
+                27.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=wR8QFp-6v_k"
+    },
+    "xFTMMHa16i4": {
+        "annotations": {
+            "label": "robot dancing",
+            "segment": [
+                2.0,
+                12.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=xFTMMHa16i4"
+    },
+    "xFq-OJ8HDJs": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                185.0,
+                195.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=xFq-OJ8HDJs"
+    },
+    "yKn4FhKOYOQ": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                9.0,
+                19.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=yKn4FhKOYOQ"
+    },
+    "yN6394xBHog": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                0.0,
+                10.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=yN6394xBHog"
+    },
+    "ytnsBbsAZV4": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                84.0,
+                94.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=ytnsBbsAZV4"
+    },
+    "zF_LeVOnTgQ": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                3.0,
+                13.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=zF_LeVOnTgQ"
+    },
+    "zHYNd34DhhI": {
+        "annotations": {
+            "label": "playing chess",
+            "segment": [
+                96.0,
+                106.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=zHYNd34DhhI"
+    },
+    "zhy6E6VRJLM": {
+        "annotations": {
+            "label": "petting cat",
+            "segment": [
+                69.0,
+                79.0
+            ]
+        },
+        "duration": 10.0,
+        "subset": "val",
+        "url": "https://www.youtube.com/watch?v=zhy6E6VRJLM"
+    }
+}
